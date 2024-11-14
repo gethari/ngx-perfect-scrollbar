@@ -1,3 +1,7 @@
+# Update Nov 2024
+
+For Angular 14 use package version 14.x
+
 # Update July 2023
 
 13.0.1, will shortly update the lib to support Angular 14,15 & 16
